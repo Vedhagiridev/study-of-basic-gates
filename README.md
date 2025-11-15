@@ -66,9 +66,9 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
-<img width="1227" height="589" alt="Screenshot 2025-11-15 094906" src="https://github.com/user-attachments/assets/8521cf4f-f8ea-4ab4-a771-5a414275daf4" />
+<img width="621" height="469" alt="image" src="https://github.com/user-attachments/assets/89a5a5e9-63a1-4a98-aede-7d2ead8aa876" />
 
- Developed by: RegisterNumber: 25011856
+ Developed by:SHARMILI.V RegisterNumber: 25011856
  
 **Logic symbol & Truthtable**
 
